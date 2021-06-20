@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31410.357
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFileTagger", "WindowsFileTagger\WindowsFileTagger.csproj", "{B963D08B-79EB-4903-9EFD-A38C4CA4F118}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFileTagger", "WindowsFileTagger\WindowsFileTagger.csproj", "{9CF6531D-B6C7-49E6-A2B3-D5CE508B0A13}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{B963D08B-79EB-4903-9EFD-A38C4CA4F118}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B963D08B-79EB-4903-9EFD-A38C4CA4F118}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B963D08B-79EB-4903-9EFD-A38C4CA4F118}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B963D08B-79EB-4903-9EFD-A38C4CA4F118}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CF6531D-B6C7-49E6-A2B3-D5CE508B0A13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CF6531D-B6C7-49E6-A2B3-D5CE508B0A13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CF6531D-B6C7-49E6-A2B3-D5CE508B0A13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CF6531D-B6C7-49E6-A2B3-D5CE508B0A13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {5BF7B163-7A83-4620-BC3F-99D0EB45617B}
+		SolutionGuid = {FDA2811E-A980-4664-86F0-C8B5578BB1EB}
 	EndGlobalSection
 EndGlobal
